@@ -1,4 +1,4 @@
-## Please follow this link to setup the required python version on your system:
+## Please follow this link to setup the required python version(python 3.6) on your system:
 https://realpython.com/installing-python/
 
 After setup the required python version on your system open the terminal navigate to the project directory through the command "cd (path to the directory)".
