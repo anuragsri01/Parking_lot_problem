@@ -38,6 +38,6 @@ To create your own ParkingLot -
 2. Run `python parking_program.py` to run without input test case file. This opens a shell where you can write your commands like -
 
   
-3. To run with a file execute `python parking_program.py -f inp.txt. You can modify the test cases.
+3. To run with a file execute 'python parking_program.py -f inp.txt'. You can modify the test cases.
   
 
