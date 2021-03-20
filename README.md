@@ -37,9 +37,7 @@ To create your own ParkingLot -
 
 2. Run `python parking_program.py` to run without input test case file. This opens a shell where you can write your commands like -
 
-  ![p1](https://user-images.githubusercontent.com/19779081/61169444-24e41a80-a57b-11e9-93bc-32e3f290031d.png)
   
 3. To run with a file execute `python parking_program.py -f inp.txt. You can modify the test cases.
   
-  ![p2](https://user-images.githubusercontent.com/19779081/61169533-7f31ab00-a57c-11e9-9bf6-9d9aa09177d0.png)
 
