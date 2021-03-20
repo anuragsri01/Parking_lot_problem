@@ -1,3 +1,9 @@
+## Please follow this link to setup the required python version on your system:
+https://realpython.com/installing-python/
+
+After setup the required python version on your system open the terminal navigate to the project directory through the command "cd (path to the directory)".
+once in the project directory to run the program please follow the setup section provided at last. 
+
 # Parking_lot_problem
 This repository gives an overview of how we can design a basic parking lot in Python. It creates parking lot with given number of slots. The cars follow Greedy approach while being parked in the slots.
 
